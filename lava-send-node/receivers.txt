@@ -1,0 +1,4 @@
+3e37528a3e86925cad05d680b6d6c62736faf2a0f9a52c35386fba7721cd78a6
+lava1.testnet
+lava2.testnet
+lava3d.testnet

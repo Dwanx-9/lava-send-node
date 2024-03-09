@@ -1,0 +1,3 @@
+PrivateKey  : KpgMMtcXYyHrVDBQUEiEQMQiVynEnTzEcRhc4HgmToJ
+NodeURL     : https://near-testnet.lava.build/lava-referer-b302d6af-a4fb-44a4-9a2a-941fb55efe6a/
+PublicKey   : 5kggZLn757M84urZt1SRs4LyQgxnjFy9HxBAc3b4igzu
